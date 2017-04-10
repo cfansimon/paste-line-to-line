@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Paste line-to-line",
+        "command": "paste-line-to-line:paste"
+      }
+    ]
+  }
+}
