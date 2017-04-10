@@ -1,5 +1,5 @@
 {
-  "name": "paste line-to-line",
+  "name": "paste-line-to-line",
   "main": "./lib/paste-line-to-line",
   "version": "1.0.0",
   "description": "it's simple",
